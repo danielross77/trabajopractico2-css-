@@ -1,0 +1,22 @@
+#fondo{
+    background-color: aqua;
+}
+*{
+    font-family: 'Oswald', sans-serif;text-decoration: none;
+}
+#facebook {
+   font: optional;color: blue;
+
+}
+#instagram {
+   font: optional;color: red;
+}
+#centro{
+    text-align: center;
+}
+#rojo{
+    background-color: red;font: optional;color: white;
+}
+#blanco{
+    background-color:white;
+}
